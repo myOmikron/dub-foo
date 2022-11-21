@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"omikron"
+	],
+	"copyright": "Copyright © 2022, omikron",
+	"description": "A minimal D application.",
+	"license": "WTFPL",
+	"name": "foo"
+}
